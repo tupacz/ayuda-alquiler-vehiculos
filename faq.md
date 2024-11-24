@@ -1,3 +1,9 @@
+---
+layout: page
+title: "FAQs"
+nav_order: 3
+---
+
 # Preguntas Frecuentes (FAQs)
 
 Bienvenido a la sección de Preguntas Frecuentes del Sistema de Alquiler de Vehículos. Aquí encontrarás respuestas a las preguntas más comunes sobre cómo usar el sistema y solucionar posibles problemas.

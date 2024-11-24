@@ -1,15 +1,4 @@
-title: "Centro de Ayuda"
-description: "Documentación del Sistema de Alquiler de Vehículos"
-theme: just-the-docs
-docs:
-  toc: true
-just_the_docs:
-  navigation:
-    - section: Guías
-      items:
-        - name: Crear una Reserva
-          url: /guias/crear-reserva
-        - name: Modificar una Reserva
-          url: /guias/modificar-reserva
-    - section: FAQ
-      url: /faq
+title: "Centro de Ayuda - Rent-A-Car"
+description: "Documentación oficial del Sistema de Alquiler de Vehículos."
+theme: minima
+skin: dark

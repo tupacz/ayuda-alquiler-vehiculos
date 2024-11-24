@@ -88,6 +88,8 @@
 
 ### Preparar Vehículos para Alquiler
 
+![Captura de pantalla - Preparacion vehículos](../assets/Mantenimiento-vehicular.png)
+
 **Acceso**: Esta funcionalidad está disponible para los empleados del taller.
 
 **Ubicación en el Menú**:  

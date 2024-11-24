@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Guías"
+nav_order: 2
+---
+
 ## Guía del Usuario del Sistema de Alquiler de Vehículos
 
 Estas son nuestras guías disponibles. Podés descargarlas todas en formato .pdf desde acá.

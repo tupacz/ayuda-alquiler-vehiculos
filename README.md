@@ -1,3 +1,9 @@
+---
+layout: home
+title: "Inicio"
+nav_order: 1
+---
+
 
 Este sitio está diseñado para proporcionar asistencia detallada sobre cómo utilizar el Sistema de Alquiler de Vehículos de manera eficiente. Acá encontrarás guías, preguntas frecuentes, y recursos que te ayudarán a resolver cualquier duda o problema que puedas tener.
 
