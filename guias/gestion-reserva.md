@@ -22,7 +22,7 @@
    - Haz clic en **Buscar**. El sistema listará todos los vehículos disponibles para ese rango de fechas.
    - Selecciona un vehículo del listado y haz clic en **Seleccionar**. El precio total se actualizará de acuerdo al vehículo y las fechas elegidas.
 
-   ![Captura de pantalla - Alta de Reserva](/assets/alta-de-reserva.png)
+![Captura de pantalla - Alta de Reserva](../assets/alta-de-reserva.png)
 
 2. **Seleccionar Seguro**:  
    - Selecciona la preferencia del cliente haciendo clic en uno de los **botones de opción (radio button)** disponibles.

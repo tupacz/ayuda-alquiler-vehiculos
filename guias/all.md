@@ -24,7 +24,7 @@ Estas son nuestras guías disponibles. Podés descargarlas todas en formato .pdf
 
 [2.3 Eliminar Vehículo](./gestion-vehiculos.md#eliminar-vehiculo)
 
-### [3. Gestión de Alquileres](gestion-alquiler.md.md)
+### [3. Gestión de Alquileres](gestion-alquiler.md)
 [3.1 Registrar Alquiler](./gestion-alquiler.md#registrar-alquiler)
 
 [3.2 Entrega de Vehículo](./gestion-alquiler.md#entrega-de-vehículo)

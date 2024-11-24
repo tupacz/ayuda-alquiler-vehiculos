@@ -135,6 +135,7 @@ En esta sección, cubriremos la **Gestión de Reservas**, la **Gestión de Alqui
 ### 3. Gestión de Alquileres
 
 #### 3.1 Registrar Alquiler
+![Registrar alquiler](../assets/registrar-alquiler.png)
 
 **Acceso**: Esta funcionalidad está disponible para los recepcionistas.
 
@@ -187,6 +188,8 @@ En esta sección, cubriremos la **Gestión de Reservas**, la **Gestión de Alqui
 ---
 
 #### 3.3 Devolución de Vehículo
+
+![Devolución de vehículo](../assets/Devolucion-vehicular.png)
 
 **Acceso**: Esta funcionalidad está disponible para los inspectores de vehículos.
 
@@ -245,6 +248,8 @@ En esta sección, cubriremos la **Gestión de Reservas**, la **Gestión de Alqui
 ### 4. Gestión de Vehículos
 
 #### 4.1 Supervisar Vehículos
+
+![Supervisar vehículo](../assets/Supervisar-vehiculo.png)
 
 **Acceso**: Esta funcionalidad está disponible para los supervisores.
 

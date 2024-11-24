@@ -30,6 +30,8 @@
 **Validaciones Importantes**:
 - No podrás enviar un vehículo a mantenimiento o disponibilizarlo sin seleccionarlo previamente.
 
+![Supervisar vehículo](../assets/Supervisar-vehiculo.png)
+
 ---
 
 ### Revisar Reparaciones

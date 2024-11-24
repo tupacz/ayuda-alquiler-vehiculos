@@ -9,6 +9,8 @@
 
 ### Registrar Alquiler
 
+![Registrar alquiler](../assets/registrar-alquiler.png)
+
 **Acceso**: Esta funcionalidad está disponible para los recepcionistas.
 
 **Ubicación en el Menú**:  
@@ -60,6 +62,8 @@
 ---
 
 ### Devolución de Vehículo
+
+![Devolución de vehículo](../assets/Devolucion-vehicular.png)
 
 **Acceso**: Esta funcionalidad está disponible para los inspectores de vehículos.
 
