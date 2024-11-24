@@ -19,9 +19,8 @@ Si no encuentras la respuesta que necesitas en nuestro centro de ayuda, por favo
 
 ---
 
-## Cómo Navegar este Sitio
-- Utiliza el **menú lateral** para acceder rápidamente a cada sección.
-- Puedes utilizar el cuadro de **búsqueda** en la parte superior derecha para buscar palabras clave relacionadas con tu problema.
+### Cómo Navegar este Sitio
+- Utilizando el **menú superior** para acceder rápidamente a cada sección.
 
 ---
 
