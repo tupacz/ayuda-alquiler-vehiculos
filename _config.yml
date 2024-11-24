@@ -2,3 +2,7 @@ title: "Centro de Ayuda - Rent-A-Car"
 description: "Documentación oficial del Sistema de Alquiler de Vehículos."
 theme: minima
 skin: dark
+header_pages:
+  - readme.md
+  - guias/all.md
+  - faq.md
