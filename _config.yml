@@ -5,4 +5,5 @@ skin: dark
 header_pages:
   - readme.md
   - guias/all.md
+  - guias/all-pdf.md
   - faq.md
